@@ -1,2 +1,55 @@
-# inkuility
-App for taking handwritten notes
+# inkuility :blue_book:
+App for taking handwritten notes :writing_hand:
+
+# Progress :star:
+
+- [ ]  **Pen** :pen:
+    - [X]  Color :rainbow:
+    - [X]  Draw size :wavy_dash:
+        - [ ]  Types
+            - [X]  Ball Pen :pen:
+            - [X]  Fountain Pen :fountain_pen:
+            - [ ]  Different pressure sensitivity :wavy_dash:
+    - [ ]  Stroke Stabilizer :curly_loop:
+        - [X]  Basic Stroke Stabilizier :curly_loop:
+        - [ ]  Custom Stroke Stabilizing :loop:
+- [X]  **Eraser** :x:
+- [ ]  **Selecting** :heavy_check_mark:
+    - [X]  Lasso Select Tool :cowboy_hat_face:
+    - [ ]  Rectangle Select Tool
+- [ ]  **Shapes**
+    -  [X] Color :rainbow:
+    -  [X] Draw size :wavy_dash:
+        - [ ]  Types
+            - [ ]  Polylines
+                - [X]  Lines
+                - [ ]  Rectangle
+                - [ ]  Triangle
+                - [ ]  Polygon
+                - [ ]  Outline Types
+                    - [ ]  Bevel
+                    - [ ]  Miter
+                    - [ ]  Round
+            - [ ]  Circle
+            - [ ]  Ellipse
+            - [ ]  Curves
+            - [ ]  Arrows
+- [ ]  **Marker** :crayon:
+- [ ]  **Images** :city_sunset:
+- [ ]  **History Management (undo/redo)** :back:
+- [ ]  **Movement**
+    - [X]  Panning
+    - [ ]  Zooming
+        - [X]  Mouse :computer_mouse:
+        - [ ]  Touch :iphone:
+- [X]  **Window Resize** :left_right_arrow:
+- [ ]  **File Management** :file_cabinet:
+    - [ ]  Save notes :card_index:
+    - [ ]  Load notes :open_file_folder:
+- [ ] Settings :gear:
+    - [ ] Background Grid Types :spiral_notepad:
+    - [ ] Background Color :rainbow:
+    - [ ] Light/Dark Mode :bulb:
+- [ ]  Modes
+    - [X]  infinite Whiteboard
+    - [ ]  ...
