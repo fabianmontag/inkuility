@@ -1,8 +1,11 @@
-# inkuility :blue_book:
+# inkuility
 App for taking handwritten notes :writing_hand:
 
-# Progress :star:
+## Table of contents
+* [Progress](#Progress)
+* [Author](#Author)
 
+# Progress
 - [ ]  **Pen** 
     - [X]  Color
     - [X]  Draw size
@@ -52,3 +55,6 @@ App for taking handwritten notes :writing_hand:
     - [ ]  Light/Dark Mode 
 - [ ]  **Modes**
     - [X]  infinite Whiteboard
+
+# Author
+* [Fabian Montag](https://github.com/fabianmontag/inkuility)
