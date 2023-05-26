@@ -49,12 +49,14 @@ App for taking handwritten notes :writing_hand:
 - [ ]  **File Management** 
     - [ ]  Save notes 
     - [ ]  Load notes
+    - [ ]  View/Manage Notes
+    - [ ]  Delete Notes
+    - [ ]  Group Notes (Folders)
+    - [ ]  Share Notes
 - [ ]  **Settings**
     - [ ]  Background Grid Types 
     - [ ]  Background Color 
     - [ ]  Light/Dark Mode 
-- [ ]  **Modes**
-    - [X]  infinite Whiteboard
 
 # Author
 * [Fabian Montag](https://github.com/fabianmontag)
