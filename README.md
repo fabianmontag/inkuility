@@ -57,4 +57,4 @@ App for taking handwritten notes :writing_hand:
     - [X]  infinite Whiteboard
 
 # Author
-* [Fabian Montag](https://github.com/fabianmontag/inkuility)
+* [Fabian Montag](https://github.com/fabianmontag)
