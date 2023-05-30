@@ -39,20 +39,16 @@ App for taking handwritten notes :writing_hand:
             - [ ]  Arrows
 - [ ]  **Marker** 
 - [ ]  **Images** 
-- [ ]  **History Management (undo/redo)** 
+- [X]  **History Management (undo/redo)** 
 - [ ]  **Movement**
     - [X]  Panning
     - [ ]  Zooming
         - [X]  Mouse 
         - [ ]  Touch 
 - [X]  **Window Resize** 
-- [ ]  **File Management** 
+- [ ]  **File Management (local Files)** 
     - [ ]  Save notes 
     - [ ]  Load notes
-    - [ ]  View/Manage Notes
-    - [ ]  Delete Notes
-    - [ ]  Group Notes (Folders)
-    - [ ]  Share Notes
 - [ ]  **Settings**
     - [ ]  Background Grid Types 
     - [ ]  Background Color 
