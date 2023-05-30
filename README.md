@@ -45,7 +45,8 @@ App for taking handwritten notes :writing_hand:
     - [ ]  Zooming
         - [X]  Mouse 
         - [ ]  Touch 
-- [X]  **Window Resize** 
+- [X]  **Window Resize**
+- [X]  **Focus Mode**
 - [ ]  **File Management (local Files)** 
     - [ ]  Save notes 
     - [ ]  Load notes
