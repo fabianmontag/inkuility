@@ -43,7 +43,7 @@ App for taking handwritten notes :writing_hand:
     - [ ]  Save notes 
     - [ ]  Load notes
 - [ ]  **Settings**
-    - [ ]  Background Grid Types 
+    - [X]  Background Grid Types 
     - [ ]  Background Color 
     - [ ]  Light/Dark Mode 
 
