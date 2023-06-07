@@ -24,19 +24,11 @@ App for taking handwritten notes :writing_hand:
     -  [X] Color
     -  [X] Draw size 
         - [ ]  Types
-            - [ ]  Polylines
-                - [X]  Lines
-                - [ ]  Rectangle
-                - [ ]  Triangle
-                - [ ]  Polygon
-                - [ ]  Outline Types
-                    - [ ]  Bevel
-                    - [ ]  Miter
-                    - [ ]  Round
-            - [ ]  Circle
-            - [ ]  Ellipse
-            - [ ]  Curves
-            - [ ]  Arrows
+             - [ ]  Severl Shape Types
+             - [ ]  Outline Types
+                 - [ ]  Bevel
+                 - [ ]  Miter
+                 - [ ]  Round
 - [ ]  **Marker** 
 - [ ]  **Images** 
 - [X]  **History Management (undo/redo)** 
