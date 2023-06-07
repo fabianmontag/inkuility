@@ -24,7 +24,7 @@ App for taking handwritten notes :writing_hand:
     -  [X] Color
     -  [X] Draw size 
         - [ ]  Types
-             - [ ]  Severl Shape Types
+             - [ ]  Several Shape Types
              - [ ]  Outline Types
                  - [ ]  Bevel
                  - [ ]  Miter
