@@ -13,13 +13,12 @@ App for taking handwritten notes :writing_hand:
             - [X]  Ball Pen 
             - [X]  Fountain Pen 
             - [ ]  Different pressure sensitivity 
-    - [ ]  Stroke Stabilizer 
+    - [X]  Stroke Stabilizer 
         - [X]  Basic Stroke Stabilizier 
-        - [ ]  Custom Stroke Stabilizing 
+        - [X]  Custom Stroke Stabilizing 
 - [X]  **Eraser** 
 - [ ]  **Selecting** 
     - [X]  Lasso Select Tool 
-    - [ ]  Rectangle Select Tool
 - [ ]  **Shapes**
     -  [X] Color
     -  [X] Draw size 
@@ -45,7 +44,6 @@ App for taking handwritten notes :writing_hand:
 - [ ]  **Settings**
     - [X]  Background Grid Types 
     - [ ]  Background Color 
-    - [ ]  Light/Dark Mode 
 
 # Author
 * [Fabian Montag](https://github.com/fabianmontag)
