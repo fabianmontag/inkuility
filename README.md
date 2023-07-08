@@ -44,6 +44,3 @@ App for taking handwritten notes :writing_hand:
 - [ ]  **Settings**
     - [X]  Background Grid Types 
     - [ ]  Background Color 
-
-# Author
-* [Fabian Montag](https://github.com/fabianmontag)
