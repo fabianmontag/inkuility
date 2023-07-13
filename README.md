@@ -49,5 +49,6 @@
 - Images
 - Marker
 - Focus Mode
+- Text
  
   
