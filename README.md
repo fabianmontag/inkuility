@@ -39,6 +39,7 @@
 - Whiteboard Style
 
 ## Upcoming Features
+- Seperate Draw Size and Eraser Size
 - More Shapes
   - Arrow, Circle, Ellipse
 - Fill Shapes 
